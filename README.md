@@ -19,6 +19,7 @@ Highlights:
 ## 🚀 Live Preview
 
 👉 [Click here to view the site](https://streamify-yas.netlify.app)
+---
 
 ## 🧪 .env Setup
 
