@@ -2,6 +2,10 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
+## 🚀 Live Preview
+
+👉 [Click here to view the site](https://streamify-yas.netlify.app)
+
 Highlights:
 
 - 🌐 Real-time Messaging with Typing Indicators & Reactions
@@ -15,10 +19,6 @@ Highlights:
 - 🎯 Built with Scalable Technologies like Stream
 - ⏳ And much more!
 
----
-## 🚀 Live Preview
-
-👉 [Click here to view the site](https://streamify-yas.netlify.app)
 ---
 
 ## 🧪 .env Setup
